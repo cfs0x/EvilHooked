@@ -8,8 +8,11 @@
 </i>
   <br>
 
-Web by [Info](https://rproxylab.gitbook.io/evilginx-lab-by-cfs0x/) | follow us on [Twitter](https://twitter.com/cfs0x) | Discord SERVER xCommunity RProxy LAB the [EvilGinx/Modlishka/NodeJS](https://subscord.com/store/1397884713951170610) | Telegram [Contact](https://t.me/cfs0x)
+Web by [EvilHOOKED](https://t.me/EvilHooked) | follow us on [Twitter](https://twitter.com/cfs0x) | Discord SERVER xCommunity RProxy LAB the [EvilGinx/Modlishka/NodeJS](https://subscord.com/store/1397884713951170610) | Telegram [Contact](https://t.me/cfs0x)
 
+#### Added: We implemented FAKE notifications when working with targeted targets, 
+- Installing file extensions inside the session - downloading from both the server and the extension store + the Evil extension itself for capturing browser data.
+ 
 Main modules and functionalities
 
 #### Central hub for monitoring ongoing attacks in real time.
