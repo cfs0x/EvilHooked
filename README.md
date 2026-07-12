@@ -15,6 +15,11 @@ Web by [EvilHOOKED](https://t.me/EvilHooked) | follow us on [Twitter](https://tw
  
 Main modules and functionalities
 
+#Added: ⚡️ PRO UPDATE: BULLETPROOF AUTOMATION FOR EMAIL 
+
+
+https://github.com/user-attachments/assets/e609fb93-4dd2-4290-8400-da477e75bf15
+
 #### Central hub for monitoring ongoing attacks in real time.
 
 - Metrics Counters: Displays the total number of sessions (Total Sessions), the number of successful compromises with data collection (Captured), unsuccessful attempts (No Capture), and the counter of active users on phishing pages.
