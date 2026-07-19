@@ -7,8 +7,14 @@
     <br>This is a commercial graphical framework (web control panel) designed to automate, deploy, and manage advanced AitM (Adversary-in-the-Middle) phishing campaigns. The program acts as a visual add-on to the popular Evilginx security tool, complementing it with its own automation modules based on Node.js ( EvilPuppet) and Playwrightto bypass modern corporate security systems (MFA/2FA, Captcha ( different types ) Cloudflare, etc).
 </i>
   <br>
-
-Web by [EvilHOOKED](https://t.me/EvilHooked) | follow us on [Twitter](https://twitter.com/cfs0x) | Discord SERVER xCommunity RProxy LAB the [EvilGinx/Modlishka/NodeJS](https://subscord.com/store/1397884713951170610) | Telegram [Contact](https://t.me/cfs0x)
+  
+  <p align="center">
+  <a href="https://rproxylab.gitbook.io/evilginx-lab-by-cfs0x/"><strong>RProxy Docs</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/cfs0x/EvilHooked"><strong>EvilHOOKED</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://t.me/EvilHooked"><strong>EvilHOOKED Channel</strong></a>
+</p>
 
 #### Added: We implemented FAKE notifications when working with targeted targets, 
 - Installing file extensions inside the session - downloading from both the server and the extension store + the Evil extension itself for capturing browser data.
