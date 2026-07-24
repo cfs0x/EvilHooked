@@ -16,6 +16,10 @@
   <a href="https://t.me/EvilHooked"><strong>EvilHOOKED Channel</strong></a>
 </p>
 
+#### Update: A PWA module has been added, allowing you to install desktop applications—phishlets ( Android / IOS / PC / MacOS). You can edit them in Live mode and replace them with downloads of other sites and applications (for example, when installing a PHISHLETs from Metamask on a desktop or mobile device, you can later replace it with a custom wallet application with full capture)
+
+https://github.com/user-attachments/assets/c327f587-f5f8-406c-9a65-e68221d276c4
+
 #### Added: We implemented FAKE notifications when working with targeted targets, 
 - Installing file extensions inside the session - downloading from both the server and the extension store + the Evil extension itself for capturing browser data.
  
